@@ -1,6 +1,6 @@
 ---
 title: "Assignment3"
-layout: assignments
+layout: single
 permalink: /assignment3/
 author_profile: true
 ---
