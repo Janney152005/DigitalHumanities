@@ -1,5 +1,5 @@
 ---
-title: "dln"
+title: "Dln"
 permalink: /dln/
 author_profile: false
 ---
