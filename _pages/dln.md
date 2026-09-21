@@ -4,18 +4,65 @@ permalink: /dln/
 author_profile: false
 ---
 
-As a twenty-year-old growing up at the intersection of print tradition and digital noise, my relationship with digital literacy has always felt second nature, yet subtly incomplete. Coming into university as a Literature and Creative Writing major with an Interactive Media minor, I used to think digital literacy simply meant knowing how to navigate modern tools: formatting a manuscript in Google Docs, curating an aesthetic narrative on Instagram, or editing a video essay in Adobe Premiere Pro for class. In my everyday life, my digital habits lean heavily toward creative content creation and social navigation. I move effortlessly between platforms like Figma for wireframing media projects, Canva and Premiere for visual storytelling, and Discord or Substack for collaborative writing communities.
+As a 20-year-old university student majoring in Literature & Creative Writing with a minor in Interactive Media, my daily academic and creative workflows sit right at the intersection of text, storytelling, and digital media. Raised in a hyper-connected era, my baseline digital literacy goes beyond passive consumption; it is defined by a hybrid skill set that spans literary analysis and digital production.	As a 20-year-old university student double-focusing in Business and Interactive Media, my daily academic and creative workflows sit right at the intersection of quantitative analysis, brand storytelling, and technological experimentation. Raised in a hyper-connected era, my baseline digital literacy goes beyond passive consumption; it is defined by a hybrid skill set that spans market modeling, computational thinking, and creative production.
+Digital Workflows: Creation, Interaction, and Data Management
 
-When it comes to research and academic workflows, my toolkit expanded out of sheer necessity. I regularly employ Zotero for reference and research data management, structuring my secondary sources into tagged collections. For basic data manipulation and analysis—especially when working on media analytics or close-reading text frequency—I rely on tools like Notion databases, Excel, and basic Python scripts in Jupyter Notebooks to clean and map textual data.
 
-However, sitting in an interdisciplinary classroom completely changes how I view these capabilities. Surrounded by peers from Computer Science, Film and New Media, Environmental Studies, Engineering, and Literature, the diversity of skill sets in the room is both intimidating and exhilarating. Where a Computer Science student sees an algorithm as a logical optimization problem, a Film student reads it as an invisible editorial voice, an Environmental Studies student approaches it as an ecological modeling framework, and I analyze it as a narrative structure. Recognizing these distinct mental frameworks has shown me that digital literacy is not merely technical fluencies—it is the capacity to translate ideas across disciplines.
 
-This is where the Digital Humanities (DH) opens up radically new horizons for my studies. Traditionally, literary analysis relies on "close reading"—diving deep into a single text to analyze nuance, tone, and syntax. DH introduces "distant reading," allowing us to process thousands of texts at once using computational tools. By applying natural language processing (NLP) and data visualization to archives of literature, I can map narrative tropes across centuries or trace how spatial terms evolve across historical texts. DH bridges the gap between creative storytelling and algorithmic rigor, proving that computational methods can amplify humanistic inquiry rather than flatten it.
+In my daily life, content creation and social interaction are deeply intertwined with digital storytelling. I leverage tools across the Adobe Creative Cloud alongside standard video editing software to craft visual narratives and digital assets. My approach to social interaction involves using basic web platforms and social media analytics to manage project outreach.
 
-Collaborating across disciplines has also transformed how I approach "computational thinking." As a writer, I used to view logic-driven systems as rigid or cold. But working alongside engineers and developers has helped me realize that computational thinking—decomposition, pattern recognition, abstraction, and algorithm design—is fundamentally a creative process. Structuring a complex interactive narrative in Twine or coding a generative fiction system requires the same structural discipline as plotting a novel. Collaboration forces me to break down vague narrative concepts into explicit, step-by-step logic, broadening my problem-solving repertoire.
 
-In the age of generative AI, this critical reflection becomes even more urgent. The rapid evolution of large language models (LLMs) challenges what it means to write, create, and research. Rather than viewing AI as either a magic shortcut or a threat to artistic integrity, I am learning to treat it as a new medium to probe. Understanding data provenance, algorithmic bias, and prompt engineering allows me to approach AI critically—interrogating how these models are trained, whose voices they privilege, and how they reframe human authorship.
 
-Looking at my current abilities, I acknowledge a distinct gap between my expressive media skills and my technical execution. While I am comfortable with media production and textual interpretation, my command of formal data analysis and coding remains developing. In this course, I am discovering that code is not just a utility, but a material—a medium with its own rhetoric, ethics, and aesthetics.
+For research data management, my toolkit reflects qualitative and text-based humanities research. I regularly work within basic spreadsheets and qualitative coding tools. When handling text collections or archival materials, I manage data integrity through file organization and document annotation.
 
-Moving forward, I want to explore new ways of thinking that merge quantitative precision with critical theory. I am eager to experiment with spatial humanities, network analysis of literary character systems, and ethical framework design for human-AI co-creation. By continuing to build my computational literacy alongside my literary instincts, I hope to inhabit a form of scholarship that is both deeply empathetic and computationally powerful.
+Digital Workflows: Creation, Interaction, and Data Management
+
+
+
+In my daily life, content creation and social interaction are deeply intertwined with brand strategy and visual media. I leverage tools across the Adobe Creative Cloud—specifically Photoshop, Illustrator, InDesign, and Premiere Pro—alongside DaVinci Resolve to design marketing campaigns, produce promotional videos, and craft digital assets for university organizations and art platforms. My approach to social interaction is strategic: I utilize platforms like Canva and Google Analytics to manage outreach, evaluate audience engagement metrics, and optimize digital presence.
+
+
+
+For research data management and quantitative manipulation, my toolkit reflects both commercial and social science approaches. For financial modeling, impact investing research, and market valuation, I regularly work within Excel, Bloomberg Terminal, and structured databases. When handling complex statistical analysis and qualitative data archives, I pivot to R/RStudio, Stata, SPSS, and Python. Whether running regression analyses for economic trends or conducting textual analysis on qualitative field notes, managing data integrity requires a systematic approach to version control, variable coding, and data visualization.
+
+Interdisciplinary Synergy and Computational Thinking
+
+
+
+In a university environment, the room is filled with peers from Computer Science, Film and New Media, Engineering, Environmental Studies, and Literature. Navigating this interdisciplinary space forces a constant re-evaluation of what "data" actually means. To a Computer Scientist, data might be code; to a Film student, it is video frames.
+
+
+
+My studies in Interactive Media bridge these worlds. Collaborating with engineers and media artists forces me to expand my computational thinking—learning to deconstruct creative problems into algorithmic logic.
+
+
+
+Digital Humanities (DH) proves that quantitative rigor and humanistic inquiry are not mutually exclusive. Through methods like text analysis and interactive archives, we can interrogate narrative trends and cultural history.
+
+Interdisciplinary Synergy and Computational Thinking
+
+
+
+In a university environment, the room is filled with peers from Computer Science, Film and New Media, Engineering, Environmental Studies, and Literature. Navigating this interdisciplinary space forces a constant re-evaluation of what "data" actually means. To a Computer Scientist, data might be an abstract data structure; to a Film student, it is a sequence of timecodes and visual frames; to an Environmental Scientist, it is spatial and climate readings.
+
+
+
+My minor in Interactive Media, combined with coursework in Creative Coding (using p5.js and JavaScript) and Network Theory, bridges these worlds. Collaborating with engineers and media artists forces me to expand my computational thinking—learning to deconstruct complex business and social problems into algorithmic steps, logic gates, and feedback loops. It transforms code from a technical utility into a creative and analytical language.
+
+
+
+Digital Humanities (DH) offers a crucial horizon for my study of Business and Interactive Media. DH proves that quantitative rigor and humanistic inquiry are not mutually exclusive. Through methods like text mining in Python, network analysis, and interactive media archives, we can interrogate social impact, analyze cultural trends, and evaluate community dynamics with humanistic empathy rather than purely cold financial metrics.
+
+Critical Reflection, AI, and Future Horizons
+
+
+
+Reflecting on my current capabilities, I possess a strong foundation in creative writing, textual analysis, and basic media editing. However, my journey in this course is uncovering the vast potential of automated data processing and artificial intelligence.
+
+
+
+I am discovering how AI tools can assist in text generation and research summaries, highlighting the necessity of algorithmic literacy and ethics.
+
+
+
+Moving forward, I want to explore new ways of thinking that combine ethical AI integration with creative technology to tell compelling human stories through new media formats.
