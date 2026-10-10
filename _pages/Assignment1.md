@@ -6,16 +6,12 @@ author_profile: true
 ---
 
 Exploring Language in Science Fiction Through Computational Analysis
-1. Background & Expectations
+1. #Background & Expectations
 Before beginning our analysis, we expected science fiction to focus mainly on superpowers, aliens, creatures, supernatural characters, and futuristic technology. We imagined that the language would mostly reflect imaginative beings, extraordinary abilities, and space exploration. We were interested in seeing whether particular words would appear more frequently in the tags we associated with them, such as war in War, Mars in Mars, and space-related vocabulary in Space Travel. We started with the custom words already there ("robot", "alien", "spaceship", "mars", "war"), then moved to random words that seemed relatable ("faculty", "creature", "sword", "power", "fight"), then moved to 2 sets of more categorized words: space related ("firmament", "void", "cosmos", "orbit", "atmosphere") and war related ("bombardment", "invasion", "fleet", "defense", "sovereignty").
 We expected that words associated with war would appear most frequently in the War category and same for the other tags. We first analyzed the prewritten custom words and our results mostly supported this expectation: war had its highest relative frequency in the War tag, at 0.58 occurrences per 1,000 words. However, it also appeared frequently in Society, at 0.37, and Action, at 0.29. We were expecting to see war in Society because conflict is often represented in stories about social life and organization, and it was a nice validation when we saw it there.
 Words such as fleet, invasion, defense, bombardment, and sovereignty were the major words that shifted our understanding of science fiction. We were surprised to see how political the genre is beyond futuristic technology and imaginative creatures or going to mars/moon.
 
-
-
-
-
-
+"C:\Users\muend\Desktop\Digital Humanities\DigitalHumanities-1\assets\images\Figure 1.png""C:\Users\muend\Desktop\Digital Humanities\DigitalHumanities-1\assets\images\Figure 1.png"
 
 2. Computational Insights
 Patterns across our word groups
@@ -47,7 +43,7 @@ What the computational approach revealed, and what it could not
 Computational analysis helped us identify patterns across a large collection of texts by comparing word frequencies across tags and historical periods. For example, we might not have noticed the difference in the frequency of invasion between the two historical subsets if we had only read a few books.
 However, the process was a bit challenging. We struggled with the notebook especially because we could not autosave our work to continue later, interpreting distinctive words, and finding custom word groups that clearly differentiated categories. More importantly, word frequencies lacked context. For example, fleet appeared frequently, but we could not determine how authors used it without examining individual passages. Similarly, words like war and invasion might reflect specific historical events that our results could not identify.
 We also realized that authors from earlier periods might have used different vocabulary to express ideas we describe differently today. For example, we initially considered using superpower but questioned whether it accurately represented the language of our texts. This showed us that our analysis could overlook important concepts simply because we were unfamiliar with the words used to describe them.
-This connects to Ted Underwood’s discussion of the risks of distant reading. Computational methods reveal patterns across many texts, but these patterns depend on our word choices, tags, and historical categories. Low word frequency does not necessarily mean a concept was unimportant, just as high frequency does not automatically reveal a story’s main themes.
+This connects to Ted Underwood's discussion of the risks of distant reading. Computational methods reveal patterns across many texts, but these patterns depend on our word choices, tags, and historical categories. Low word frequency does not necessarily mean a concept was unimportant, just as high frequency does not automatically reveal a story's main themes.
 With a smaller collection, we could have examined individual passages and explored the historical contexts behind our findings. We learned that computational analysis is useful for identifying patterns and generating questions, but close reading is necessary to understand those patterns and develop stronger interpretations.
 
   
