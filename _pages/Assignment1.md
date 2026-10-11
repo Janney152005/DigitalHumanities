@@ -11,7 +11,7 @@ We expected that words associated with war would appear most frequently in the W
 
 <figure>
   <img
-    src="{{ '/assets/images/Figure1.png' | relative_url }}"
+    src="{{ '/assets/images/Figure1.jpg' | relative_url }}"
     alt="Figure 1"
     style="max-width: 100%; height: auto;">
 
@@ -22,7 +22,7 @@ Words such as fleet, invasion, defense, bombardment, and sovereignty were the ma
 
 <figure>
   <img
-    src="{{ '/assets/images/Figure2.png' | relative_url }}"
+    src="{{ '/assets/images/Figure2.jpg' | relative_url }}"
     alt="Figure 2"
     style="max-width: 100%; height: auto;">
 
