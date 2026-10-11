@@ -5,8 +5,7 @@ permalink: /assignment1/
 author_profile: true
 ---
 
-Exploring Language in Science Fiction Through Computational Analysis
-##1. Background & Expectations
+## 1. Background & Expectations
 Before beginning our analysis, we expected science fiction to focus mainly on superpowers, aliens, creatures, supernatural characters, and futuristic technology. We imagined that the language would mostly reflect imaginative beings, extraordinary abilities, and space exploration. We were interested in seeing whether particular words would appear more frequently in the tags we associated with them, such as war in War, Mars in Mars, and space-related vocabulary in Space Travel. We started with the custom words already there ("robot", "alien", "spaceship", "mars", "war"), then moved to random words that seemed relatable ("faculty", "creature", "sword", "power", "fight"), then moved to 2 sets of more categorized words: space related ("firmament", "void", "cosmos", "orbit", "atmosphere") and war related ("bombardment", "invasion", "fleet", "defense", "sovereignty").
 We expected that words associated with war would appear most frequently in the War category and same for the other tags. We first analyzed the prewritten custom words and our results mostly supported this expectation: war had its highest relative frequency in the War tag, at 0.58 occurrences per 1,000 words. However, it also appeared frequently in Society, at 0.37, and Action, at 0.29. We were expecting to see war in Society because conflict is often represented in stories about social life and organization, and it was a nice validation when we saw it there.
 Words such as fleet, invasion, defense, bombardment, and sovereignty were the major words that shifted our understanding of science fiction. We were surprised to see how political the genre is beyond futuristic technology and imaginative creatures or going to mars/moon.
@@ -20,7 +19,7 @@ Words such as fleet, invasion, defense, bombardment, and sovereignty were the ma
   <figcaption>Figure 1</figcaption>
 </figure>
 
-##2. Computational Insights
+## 2. Computational Insights
 Patterns across our word groups
 Computational analysis allowed us to compare word frequencies across many texts, tags, and historical periods without reading every book from beginning to end. Reading all the texts cover-to-cover would not have been feasible within our lifetime (especially knowing that the books were written in the old English). The notebook allowed us to explore the corpus and identify patterns that might have been difficult to notice by reading, one because the sample size will be too little, and two because we will most likely be too caught up in the storylines to notice any word occurrences.
 Space-related vocabulary
@@ -57,7 +56,7 @@ With a smaller collection, we could have examined individual passages and explor
 
 
 
-##3. Transferability
+## 3. Transferability
 This exercise taught us to think more carefully about language, historical context, and the assumptions we bring to data analysis. We learned to question whether our chosen vocabulary accurately represented the ideas we wanted to investigate, accounting for synonyms and changes in meaning across periods and contexts.
 We can apply this lesson to future courses and research projects by treating patterns as starting points rather than conclusions. Instead of assuming that high word frequency proves something, we should investigate possible explanations, consider alternatives, and look for supporting evidence.
 We also learned that computational and qualitative approaches complement each other. Computational analysis reveals broad patterns across large datasets, while close reading helps explain their meaning and historical or social context. Combining both approaches allows us to draw more careful conclusions.
