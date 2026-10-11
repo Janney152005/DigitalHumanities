@@ -11,7 +11,14 @@ Before beginning our analysis, we expected science fiction to focus mainly on su
 We expected that words associated with war would appear most frequently in the War category and same for the other tags. We first analyzed the prewritten custom words and our results mostly supported this expectation: war had its highest relative frequency in the War tag, at 0.58 occurrences per 1,000 words. However, it also appeared frequently in Society, at 0.37, and Action, at 0.29. We were expecting to see war in Society because conflict is often represented in stories about social life and organization, and it was a nice validation when we saw it there.
 Words such as fleet, invasion, defense, bombardment, and sovereignty were the major words that shifted our understanding of science fiction. We were surprised to see how political the genre is beyond futuristic technology and imaginative creatures or going to mars/moon.
 
-"C:\Users\muend\Desktop\Digital Humanities\DigitalHumanities-1\assets\images\Figure 1.png""C:\Users\muend\Desktop\Digital Humanities\DigitalHumanities-1\assets\images\Figure 1.png"
+<figure>
+  <img
+    src="{{ '/assets/images/figure%201.png' | relative_url }}"
+    alt="Figure 1"
+    style="max-width: 100%; height: auto;">
+
+  <figcaption>Figure 1</figcaption>
+</figure>
 
 2. Computational Insights
 Patterns across our word groups
