@@ -1,12 +1,8 @@
 main:
-  - title: "Dln"
-    url: /dln/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
   - title: "About"
     url: /about/
+  - title: "Dln"
+    url: /dln/
   - title: "Assignment1"
     url: /assignment1/
   - title: "Assignment2"
