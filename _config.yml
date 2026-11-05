@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Jane Muendo"
-  avatar : "/assets/images/bio-photo (2).png"
+  avatar : "/assets/images/bio-photo(2).png"
   bio    : " My site for Introduction to Digital Arts & Humanities assignments and mini-tasks."
   ##links:
    ## - label: "Website"
