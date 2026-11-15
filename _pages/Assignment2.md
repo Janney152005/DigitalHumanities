@@ -5,9 +5,9 @@ permalink: /assignment2/
 author_profile: true
 ---
 
-GROUP MEMBERS: Jane & Deema
+                           GROUP MEMBERS: Jane & Deema
 
-# Mapping Houses in Lorimer’s Gazetteer
+# Mapping Houses in Oman from Lorimer’s Gazetteer
 
 ## 1. Choosing the topic
 
