@@ -1,14 +1,13 @@
 ---
 title: "Dln"
 permalink: /dln/
-author_profile: false
+author_profile: true
 ---
 
-As a 20-year-old university student double-focusing in Business and Interactive Media, my daily academic and creative workflows sit right at the intersection of quantitative analysis, brand storytelling, and technological experimentation. Raised in a hyper-connected era, my baseline digital literacy goes beyond passive consumption; it is defined by a hybrid skill set that spans market modeling, computational thinking, and creative production.
+As a university student in Business and Interactive Media, my baseline digital literacy goes beyond passive consumption; it is defined by a hybrid skill set that is in market modeling, computational thinking, and creative production.
 
 
-In my daily life, content creation and social interaction are deeply intertwined with brand strategy and visual media. I leverage tools across the Adobe Creative Cloud—specifically Photoshop, Illustrator, InDesign, and Premiere Pro—alongside DaVinci Resolve to design marketing campaigns, produce promotional videos, and craft digital assets for university organizations and art platforms. My approach to social interaction is strategic: I utilize platforms like Canva and Google Analytics to manage outreach, evaluate audience engagement metrics, and optimize digital presence.
-
+In my daily life, content creation and social interaction are deeply intertwined with brand strategy and visual media. I leverage tools across the Adobe Creative Cloud— specifically Photoshop, Illustrator, InDesign, and Premiere Pro— alongside DaVinci Resolve to design marketing campaigns, produce promotional videos, and craft digital assets. I utilize platforms like Canva and Google Analytics to manage outreach, evaluate audience engagement metrics, and optimize digital presence.
 
 
 For research data management and quantitative manipulation, my toolkit reflects both commercial and social science approaches. For financial modeling, impact investing research, and market valuation, I regularly work within Excel, Bloomberg Terminal, and structured databases. When handling complex statistical analysis and qualitative data archives, I pivot to R/RStudio, Stata, SPSS, and Python. Whether running regression analyses for economic trends or conducting textual analysis on qualitative field notes, managing data integrity requires a systematic approach to version control, variable coding, and data visualization.
