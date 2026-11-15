@@ -1,5 +1,6 @@
 ---
 title: "Dln"
+layout: single
 permalink: /dln/
 author_profile: true
 ---
