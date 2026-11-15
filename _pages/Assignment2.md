@@ -119,4 +119,5 @@ One of our biggest takeaways was that transforming historical text into spatial 
 
 We began with an interest in religion but changed direction when we realized that the available information was not consistent enough for meaningful comparison. By focusing on houses, tribes, and settlements, we were able to create a more structured dataset and explore patterns across different parts of Oman.
 
+Link of Map: file:///C:/Users/jmm9916/Desktop/DigitalHumanities/assets/Map/houses_map.html.
 
